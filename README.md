@@ -27,5 +27,5 @@ Este projeto contém o código que coleta a lista de filmes mais assistidos da p
 Contribuições são sempre bem-vindas! Se você tem sugestões ou deseja adicionar mais funcionalidades ao bot, sinta-se livre para abrir uma "Issue" ou enviar um "Pull Request".
 
 ### Licença
-Este projeto está sob a licença [MIT](https:\\opensource.org/licenses/MIT).
+Este projeto está sob a licença [MIT](https://opensource.org/licenses/MIT).
 
