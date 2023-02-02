@@ -1,11 +1,12 @@
 ## Filmow Top Movies Bot
 
-Este é um projeto pessoal de um bot de web scraping feito em Python utilizando as bibliotecas Beautiful Soup e Scrapy. O projeto foi criado a partir do <b>workshop "Todas Programadoras" oferecido pela empresa Neoway</b> e tem como objetivo praticar o uso destas bibliotecas para automatizar tarefas de web scraping, neste caso, coletando a lista de filmes mais assistidos da plataforma brasileira Filmow.
+Este é um projeto pessoal de um bot de web scraping feito em Python utilizando as bibliotecas Beautiful Soup, Scrapy e ferramentas como HTML e CSS Selector. O projeto foi criado a partir do <b>workshop "Todas Programadoras" oferecido pela empresa Neoway</b> e tem como objetivo praticar o uso destas tecnologias para automatizar tarefas de web scraping, neste caso, coletando a lista de filmes mais assistidos da plataforma brasileira [Filmow](https://filmow.com/).
 
 ### Requisitos
 - Python 3.x
 - Biblioteca Beautiful Soup
 - Biblioteca Scrapy
+- Conhecimento em HTML e CSS Selector.
 
 ### Instalação
 - Clone este repositório para sua máquina local
